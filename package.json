@@ -1,0 +1,31 @@
+{
+  "name": "freshdesknode",
+  "version": "0.1.0",
+  "description": "A consumer of FreshDesk's REST API to do stuff",
+  "main": "FreshDeskAPI.js",
+  "scripts": {
+    "test": "printMsg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirbilloo/FreshDeskNode.git"
+  },
+  "keywords": [
+    "Nasir",
+    "Billoo",
+    "\"Nasir",
+    "Billoo\"",
+    "FreshDesk",
+    "FreshDesk Node",
+    "FreshDesk API"
+  ],
+  "author": "Nasir Billoo <nasir.billoo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasirbilloo/FreshDeskNode/issues"
+  },
+  "homepage": "https://github.com/nasirbilloo/FreshDeskNode#readme",
+  "dependencies": {
+    "request": "*"
+  }  
+}
